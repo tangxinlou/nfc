@@ -1,0 +1,258 @@
+[ 3128.333512] init: starting service 'vendor.secure_element_hal_service_1_2'...
+[ 3128.479021] type=1400 audit(1606882882.155:1169): avc: denied { search } for comm="android.hardwar" name="nfc" dev="dm-10" ino=280 scontext=u:r:hal_secure_element_default:s0 tcontext=u:object_r:vendor_nfc_vendor_data_file:s0 tclass=dir permissive=0
+[ 3128.791724] logd: logdr: UID=1068 GID=1068 PID=12756 n tail=50 logMask=8 pid=12752 start=0ns timeout=0ns
+[ 3128.799996] logd: logdr: UID=1068 GID=1068 PID=12756 n tail=50 logMask=1 pid=12752 start=0ns timeout=0ns
+[ 3128.841178] logd: logdr: UID=1068 GID=1068 PID=12756 n tail=0 logMask=8 pid=12752 start=0ns timeout=0ns
+[ 3128.850255] logd: logdr: UID=1068 GID=1068 PID=12756 n tail=0 logMask=1 pid=12752 start=0ns timeout=0ns
+[ 3128.879876] init: Service 'vendor.secure_element_hal_service_1_2' (pid 12752) received signal 6
+[ 3128.879980] init: Sending signal 9 to service 'vendor.secure_element_hal_service_1_2' (pid 12752) process group...
+[ 3128.899255] libprocessgroup: Successfully killed process cgroup uid 1068 pid 12752 in 18ms
+[ 3128.903355] init: Untracked pid 12756 exited with status 0
+[ 3128.903673] init: Untracked pid 12758 exited with status 0
+[ 3133.380128] init: starting service 'vendor.secure_element_hal_service_1_2'...
+[ 3133.537609] type=1400 audit(1606882887.215:1170): avc: denied { search } for comm="android.hardwar" name="nfc" dev="dm-10" ino=280 scontext=u:r:hal_secure_element_default:s0 tcontext=u:object_r:vendor_nfc_vendor_data_file:s0 tclass=dir permissive=0
+[ 3133.604743] healthd: battery l=1 v=3323 t=27.4 h=2 st=5 c=0 fc=3320000 cc=0 chg=u
+[ 3133.837223] logd: logdr: UID=1068 GID=1068 PID=12768 n tail=50 logMask=8 pid=12764 start=0ns timeout=0ns
+[ 3133.845418] logd: logdr: UID=1068 GID=1068 PID=12768 n tail=50 logMask=1 pid=12764 start=0ns timeout=0ns
+[ 3133.882353] logd: logdr: UID=1068 GID=1068 PID=12768 n tail=0 logMask=8 pid=12764 start=0ns timeout=0ns
+[ 3133.890206] logd: logdr: UID=1068 GID=1068 PID=12768 n tail=0 logMask=1 pid=12764 start=0ns timeout=0ns
+[ 3133.931376] init: Service 'vendor.secure_element_hal_service_1_2' (pid 12764) received signal 6
+[ 3133.931480] init: Sending signal 9 to service 'vendor.secure_element_hal_service_1_2' (pid 12764) process group...
+[ 3133.955106] libprocessgroup: Successfully killed process cgroup uid 1068 pid 12764 in 23ms
+[ 3133.959104] init: Untracked pid 12768 exited with status 0
+[ 3133.959450] init: Untracked pid 12770 received signal 9
+[ 3138.435693] init: starting service 'vendor.secure_element_hal_service_1_2'...
+[ 3138.594475] type=1400 audit(1606882892.271:1171): avc: denied { search } for comm="android.hardwar" name="nfc" dev="dm-10" ino=280 scontext=u:r:hal_secure_element_default:s0 tcontext=u:object_r:vendor_nfc_vendor_data_file:s0 tclass=dir permissive=0
+[ 3138.883709] logd: logdr: UID=1068 GID=1068 PID=12779 n tail=50 logMask=8 pid=12775 start=0ns timeout=0ns
+[ 3138.892008] logd: logdr: UID=1068 GID=1068 PID=12779 n tail=50 logMask=1 pid=12775 start=0ns timeout=0ns
+[ 3138.921875] logd: logdr: UID=1068 GID=1068 PID=12779 n tail=0 logMask=8 pid=12775 start=0ns timeout=0ns
+[ 3138.929866] logd: logdr: UID=1068 GID=1068 PID=12779 n tail=0 logMask=1 pid=12775 start=0ns timeout=0ns
+[ 3138.957327] init: Service 'vendor.secure_element_hal_service_1_2' (pid 12775) received signal 6
+[ 3138.957447] init: Sending signal 9 to service 'vendor.secure_element_hal_service_1_2' (pid 12775) process group...
+[ 3138.975374] libprocessgroup: Successfully killed process cgroup uid 1068 pid 12775 in 17ms
+[ 3138.980167] init: Untracked pid 12779 exited with status 0
+[ 3138.980590] init: Untracked pid 12781 received signal 9
+[ 3141.794589] healthd: battery l=1 v=3323 t=27.3 h=2 st=5 c=0 fc=3320000 cc=0 chg=u
+[ 3143.493258] init: starting service 'vendor.secure_element_hal_service_1_2'...
+[ 3143.644261] type=1400 audit(1606882897.319:1172): avc: denied { search } for comm="android.hardwar" name="nfc" dev="dm-10" ino=280 scontext=u:r:hal_secure_element_default:s0 tcontext=u:object_r:vendor_nfc_vendor_data_file:s0 tclass=dir permissive=0
+[ 3143.955497] logd: logdr: UID=1068 GID=1068 PID=12792 n tail=50 logMask=8 pid=12788 start=0ns timeout=0ns
+[ 3143.962674] logd: logdr: UID=1068 GID=1068 PID=12792 n tail=50 logMask=1 pid=12788 start=0ns timeout=0ns
+[ 3143.994052] logd: logdr: UID=1068 GID=1068 PID=12792 n tail=0 logMask=8 pid=12788 start=0ns timeout=0ns
+[ 3143.999433] logd: logdr: UID=1068 GID=1068 PID=12792 n tail=0 logMask=1 pid=12788 start=0ns timeout=0ns
+[ 3144.025518] init: Service 'vendor.secure_element_hal_service_1_2' (pid 12788) received signal 6
+[ 3144.025652] init: Sending signal 9 to service 'vendor.secure_element_hal_service_1_2' (pid 12788) process group...
+[ 3144.044193] libprocessgroup: Successfully killed process cgroup uid 1068 pid 12788 in 18ms
+[ 3144.049534] init: Untracked pid 12792 exited with status 0
+[ 3144.049897] init: Untracked pid 12794 received signal 9
+[ 3145.253424] logd: logdr: UID=2000 GID=2000 PID=12799 b tail=0 logMask=99 pid=0 start=0ns timeout=0ns
+[ 3147.363859] [FTS_TS/I]drm_notifier_callback:DRM event:2,blank:0
+[ 3147.363878] [FTS_TS/I]drm_notifier_callback:resume: event = 2, not care\x0a
+[ 3147.364556] [drm:dsi_display_set_mode] [msm-dsi-info]: mdp_transfer_time_us=15666 us
+[ 3147.364576] [drm:dsi_display_set_mode] [msm-dsi-info]: hactive= 1080,vactive= 2340,fps=60
+[ 3147.364835] [drm:dsi_ctrl_isr_configure] [msm-dsi-info]: dsi-ctrl-0: IRQ 378 registered
+[ 3147.367348] type=1400 audit(1606882901.035:1173): avc: denied { read } for comm="android.display" name="u:object_r:vendor_display_notch_prop:s0" dev="tmpfs" ino=27895 scontext=u:r:system_server:s0 tcontext=u:object_r:vendor_display_notch_prop:s0 tclass=file permissive=0
+[ 3147.612133] [FTS_TS/I]drm_notifier_callback:DRM event:1,blank:0
+[ 3147.614155] [FTS_TS]fts_ts_resume: Enter
+[ 3147.614199] [FTS_TS]fts_release_all_finger: Enter
+[ 3147.614435] [FTS_TS]fts_release_all_finger: Exit(384)
+[ 3147.614475] [FTS_TS]fts_power_source_ctrl: Enter
+[ 3147.614511] [FTS_TS]fts_power_source_ctrl:regulator enable !
+[ 3147.629069] [FTS_TS]fts_power_source_ctrl: Exit(971)
+[ 3147.629113] [FTS_TS]fts_reset_proc:tp reset
+[ 3147.850664] [FTS_TS/I]fts_wait_tp_to_valid:TP Ready,Device ID:0x5452
+[ 3147.850680] [FTS_TS]fts_irq_enable: Enter
+[ 3147.850717] [FTS_TS]fts_irq_enable: Exit(172)
+[ 3147.850730] [FTS_TS]fts_ts_resume: Exit(1789)
+[ 3147.869335] IRQ 5: no longer affine to CPU5
+[ 3148.361810] qcom_rpmh DRV:apps_rsc TCS Busy, retrying RPMH message send: addr=0x30010
+[ 3148.361882] qcom_rpmh DRV:apps_rsc TCS Busy, retrying RPMH message send: addr=0x30010
+[ 3148.361948] qcom_rpmh DRV:apps_rsc TCS Busy, retrying RPMH message send: addr=0x30010
+[ 3148.362012] qcom_rpmh DRV:apps_rsc TCS Busy, retrying RPMH message send: addr=0x30010
+[ 3148.539307] init: starting service 'vendor.secure_element_hal_service_1_2'...
+[ 3148.693383] type=1400 audit(1606882902.371:1174): avc: denied { search } for comm="android.hardwar" name="nfc" dev="dm-10" ino=280 scontext=u:r:hal_secure_element_default:s0 tcontext=u:object_r:vendor_nfc_vendor_data_file:s0 tclass=dir permissive=0
+[ 3149.010849] logd: logdr: UID=1068 GID=1068 PID=12813 n tail=50 logMask=8 pid=12809 start=0ns timeout=0ns
+[ 3149.017141] logd: logdr: UID=1068 GID=1068 PID=12813 n tail=50 logMask=1 pid=12809 start=0ns timeout=0ns
+[ 3149.038344] [FTS_TS]fts_input_report_b:[B]P0(605, 1694)[p:67,tm:9] DOWN!
+[ 3149.044535] logd: logdr: UID=1068 GID=1068 PID=12813 n tail=0 logMask=8 pid=12809 start=0ns timeout=0ns
+[ 3149.051389] logd: logdr: UID=1068 GID=1068 PID=12813 n tail=0 logMask=1 pid=12809 start=0ns timeout=0ns
+[ 3149.077027] init: Untracked pid 12813 exited with status 0
+[ 3149.083912] init: Service 'vendor.secure_element_hal_service_1_2' (pid 12809) received signal 6
+[ 3149.084000] init: Sending signal 9 to service 'vendor.secure_element_hal_service_1_2' (pid 12809) process group...
+[ 3149.097154] libprocessgroup: Successfully killed process cgroup uid 1068 pid 12809 in 12ms
+[ 3149.102893] init: Untracked pid 12815 exited with status 0
+[ 3149.171570] [FTS_TS]fts_input_report_b:[B]P0 UP!
+[ 3149.171585] [FTS_TS]fts_input_report_b:[B]Points All Up!
+[ 3149.439766] aw882xx_startup: playback enter
+[ 3149.455293] __afe_port_start: port id: 0x1000
+[ 3149.455325] afe_find_cal_topo_id_by_port: port id: 0x1000, dev_acdb_id: 14
+[ 3149.455339] afe_find_cal_topo_id_by_port: top_id:112fc acdb_id:14 afe_port_id:0x1000
+[ 3149.455352] afe_get_cal_topology_id: port_id = 0x1000 acdb_id = 14 topology_id = 0x112fc cal_type_index=8 ret=0
+[ 3149.455779] afe_send_port_topology_id: AFE set topology id 0x112fc  enable for port 0x1000 ret 0
+[ 3149.455794] send_afe_cal_type: cal_index is 0
+[ 3149.455809] send_afe_cal_type: dev_acdb_id[40] is 14
+[ 3149.455822] afe_find_cal: cal_index 0 port_id 0x1000 port_index 40
+[ 3149.455836] afe_find_cal: acdb_id 14 dev_acdb_id 14 sample_rate 48000 afe_sample_rates 48000
+[ 3149.455848] afe_find_cal: cal block is a match, size is 0
+[ 3149.455860] send_afe_cal_type: Sending cal_index cal 0
+[ 3149.455873] send_afe_cal_type: No cal sent for cal_index 0, port_id = 0x1000! ret -22
+[ 3149.464486] afe_send_hw_delay: port_id 0x1000 rate 48000 delay_usec 474 status 0
+[ 3149.468192] aw882xx_mute: mute state=0
+[ 3149.468208] aw882xx_smartpa_cfg: flag = 1
+[ 3149.468695] aw882xx_get_cali_re_form_nv: open /mnt/vendor/persist/factory/audio/aw_cali.bin failed!
+[ 3149.468702] aw882xx_start: use default vaule 0
+[ 3149.483259] aw882xx_start: monitor is_enable 1,spk_rcv_mode 0
+[ 3149.488032] aw882xx_monitor_start: enter
+[ 3149.488045] aw882xx_monitor_start: start monitor
+[ 3149.488066] aw882xx_send_profile_params_to_dsp: profile Music not data is NULL 
+[ 3149.495730] aw882xx_start: set profile 0 failed 
+[ 3149.668625] IRQ 5: no longer affine to CPU5
+[ 3149.943527] healthd: battery l=1 v=3323 t=27.6 h=2 st=5 c=0 fc=3320000 cc=0 chg=u
+[ 3150.077022] IRQ 5: no longer affine to CPU5
+[ 3150.274897] [FTS_TS]fts_input_report_b:[B]P0(935, 386)[p:67,tm:9] DOWN!
+[ 3150.353298] [FTS_TS]fts_input_report_b:[B]P0 UP!
+[ 3150.353323] [FTS_TS]fts_input_report_b:[B]Points All Up!
+[ 3150.411977] type=1400 audit(1606882904.087:1175): avc: denied { search } for comm="nfc@1.2-service" name="nfc" dev="dm-10" ino=280 scontext=u:r:hal_nfc_default:s0 tcontext=u:object_r:vendor_nfc_vendor_data_file:s0 tclass=dir permissive=0
+[ 3150.770114] type=1400 audit(1606882904.447:1176): avc: denied { search } for comm="nfc@1.2-service" name="nfc" dev="dm-10" ino=280 scontext=u:r:hal_nfc_default:s0 tcontext=u:object_r:vendor_nfc_vendor_data_file:s0 tclass=dir permissive=0
+[ 3150.792076] type=1400 audit(1606882904.447:1177): avc: denied { search } for comm="nfc@1.2-service" name="nfc" dev="dm-10" ino=280 scontext=u:r:hal_nfc_default:s0 tcontext=u:object_r:vendor_nfc_vendor_data_file:s0 tclass=dir permissive=0
+[ 3150.814017] type=1400 audit(1606882904.447:1178): avc: denied { search } for comm="nfc@1.2-service" name="nfc" dev="dm-10" ino=280 scontext=u:r:hal_nfc_default:s0 tcontext=u:object_r:vendor_nfc_vendor_data_file:s0 tclass=dir permissive=0
+[ 3150.836098] type=1400 audit(1606882904.447:1179): avc: denied { search } for comm="nfc@1.2-service" name="nfc" dev="dm-10" ino=280 scontext=u:r:hal_nfc_default:s0 tcontext=u:object_r:vendor_nfc_vendor_data_file:s0 tclass=dir permissive=0
+[ 3151.810883] IRQ 5: no longer affine to CPU4
+[ 3151.949100] IRQ 5: no longer affine to CPU5
+[ 3152.489225] aw882xx_monitor_work_func: enter
+[ 3152.509823] aw882xx_monitor_start: enter
+[ 3152.509851] aw882xx_monitor_start: start monitor
+[ 3152.769016] IRQ 5: no longer affine to CPU4
+[ 3153.595681] init: starting service 'vendor.secure_element_hal_service_1_2'...
+[ 3153.697538] aw882xx_mute: mute state=1
+[ 3153.697554] aw882xx_smartpa_cfg: flag = 0
+[ 3153.702144] aw882xx_monitor_stop: enter
+[ 3153.702160] aw882xx_monitor_stop: stop monitor
+[ 3153.712547] afe_close: port_id = 0x1000
+[ 3153.752253] type=1400 audit(1606882907.427:1181): avc: denied { search } for comm="android.hardwar" name="nfc" dev="dm-10" ino=280 scontext=u:r:hal_secure_element_default:s0 tcontext=u:object_r:vendor_nfc_vendor_data_file:s0 tclass=dir permissive=0
+[ 3154.057086] logd: logdr: UID=1068 GID=1068 PID=12858 n tail=50 logMask=8 pid=12854 start=0ns timeout=0ns
+[ 3154.065050] logd: logdr: UID=1068 GID=1068 PID=12858 n tail=50 logMask=1 pid=12854 start=0ns timeout=0ns
+[ 3154.095496] logd: logdr: UID=1068 GID=1068 PID=12858 n tail=0 logMask=8 pid=12854 start=0ns timeout=0ns
+[ 3154.102358] logd: logdr: UID=1068 GID=1068 PID=12858 n tail=0 logMask=1 pid=12854 start=0ns timeout=0ns
+[ 3154.131532] init: Untracked pid 12858 exited with status 0
+[ 3154.131953] init: Service 'vendor.secure_element_hal_service_1_2' (pid 12854) received signal 6
+[ 3154.132044] init: Sending signal 9 to service 'vendor.secure_element_hal_service_1_2' (pid 12854) process group...
+[ 3154.150406] libprocessgroup: Successfully killed process cgroup uid 1068 pid 12854 in 17ms
+[ 3154.155053] init: Untracked pid 12860 exited with status 0
+[ 3158.123391] healthd: battery l=1 v=3323 t=27.5 h=2 st=5 c=0 fc=3320000 cc=0 chg=u
+[ 3158.651986] init: starting service 'vendor.secure_element_hal_service_1_2'...
+[ 3158.795307] type=1400 audit(1606882912.471:1182): avc: denied { search } for comm="android.hardwar" name="nfc" dev="dm-10" ino=280 scontext=u:r:hal_secure_element_default:s0 tcontext=u:object_r:vendor_nfc_vendor_data_file:s0 tclass=dir permissive=0
+[ 3159.090154] logd: logdr: UID=1068 GID=1068 PID=12869 n tail=50 logMask=8 pid=12865 start=0ns timeout=0ns
+[ 3159.097272] logd: logdr: UID=1068 GID=1068 PID=12869 n tail=50 logMask=1 pid=12865 start=0ns timeout=0ns
+[ 3159.124486] logd: logdr: UID=1068 GID=1068 PID=12869 n tail=0 logMask=8 pid=12865 start=0ns timeout=0ns
+[ 3159.130840] logd: logdr: UID=1068 GID=1068 PID=12869 n tail=0 logMask=1 pid=12865 start=0ns timeout=0ns
+[ 3159.154876] init: Service 'vendor.secure_element_hal_service_1_2' (pid 12865) received signal 6
+[ 3159.154982] init: Sending signal 9 to service 'vendor.secure_element_hal_service_1_2' (pid 12865) process group...
+[ 3159.175122] libprocessgroup: Successfully killed process cgroup uid 1068 pid 12865 in 19ms
+[ 3159.179303] init: Untracked pid 12869 exited with status 0
+[ 3159.179646] init: Untracked pid 12871 received signal 9
+[ 3160.430687] healthd: battery l=1 v=3361 t=27.5 h=2 st=5 c=0 fc=3320000 cc=0 chg=u
+[ 3161.184752] type=1400 audit(1606882914.859:1183): avc: denied { syslog_read } for comm="dmesg" scontext=u:r:shell:s0 tcontext=u:r:kernel:s0 tclass=system permissive=0
+[ 3163.700157] init: starting service 'vendor.secure_element_hal_service_1_2'...
+[ 3163.861395] type=1400 audit(1606882917.539:1184): avc: denied { search } for comm="android.hardwar" name="nfc" dev="dm-10" ino=280 scontext=u:r:hal_secure_element_default:s0 tcontext=u:object_r:vendor_nfc_vendor_data_file:s0 tclass=dir permissive=0
+[ 3164.163681] logd: logdr: UID=1068 GID=1068 PID=12882 n tail=50 logMask=8 pid=12878 start=0ns timeout=0ns
+[ 3164.171020] logd: logdr: UID=1068 GID=1068 PID=12882 n tail=50 logMask=1 pid=12878 start=0ns timeout=0ns
+[ 3164.198381] logd: logdr: UID=1068 GID=1068 PID=12882 n tail=0 logMask=8 pid=12878 start=0ns timeout=0ns
+[ 3164.205415] logd: logdr: UID=1068 GID=1068 PID=12882 n tail=0 logMask=1 pid=12878 start=0ns timeout=0ns
+[ 3164.230813] init: Service 'vendor.secure_element_hal_service_1_2' (pid 12878) received signal 6
+[ 3164.230922] init: Sending signal 9 to service 'vendor.secure_element_hal_service_1_2' (pid 12878) process group...
+[ 3164.254897] libprocessgroup: Successfully killed process cgroup uid 1068 pid 12878 in 23ms
+[ 3164.258773] init: Untracked pid 12882 exited with status 0
+[ 3164.259098] init: Untracked pid 12884 received signal 9
+[ 3166.280858] healthd: battery l=1 v=3361 t=27.5 h=2 st=5 c=0 fc=3320000 cc=0 chg=u
+[ 3166.370147] IRQ 5: no longer affine to CPU4
+[ 3166.457803] qcom_rpmh DRV:apps_rsc TCS Busy, retrying RPMH message send: addr=0x30010
+[ 3166.457874] qcom_rpmh DRV:apps_rsc TCS Busy, retrying RPMH message send: addr=0x30010
+[ 3166.457939] qcom_rpmh DRV:apps_rsc TCS Busy, retrying RPMH message send: addr=0x30010
+[ 3166.458003] qcom_rpmh DRV:apps_rsc TCS Busy, retrying RPMH message send: addr=0x30010
+[ 3167.173864] USB cable not connected
+[ 3167.174850] ipa ipa3_cfg_ep_ctrl:4812 pipe setting delay is not supported
+[ 3167.178744] USB cable not connected
+[ 3167.219175] init: Service 'adbd' (pid 1112) exited with status 1
+[ 3167.219248] init: Sending signal 9 to service 'adbd' (pid 1112) process group...
+[ 3167.219975] libprocessgroup: Successfully killed process cgroup uid 0 pid 1112 in 0ms
+[ 3167.224215] init: starting service 'adbd'...
+[ 3167.289348] IRQ 5: no longer affine to CPU4
+[ 3167.354149] read descriptors
+[ 3167.354458] read strings
+[ 3167.377492] msm-dwc3 a600000.ssusb: ep [gsi-epin1,29] already configured as msm endpoint
+[ 3167.386071] msm-dwc3 a600000.ssusb: ep [gsi-epout1,30] already configured as msm endpoint
+[ 3167.396697] msm-dwc3 a600000.ssusb: ep [gsi-epin2,31] already configured as msm endpoint
+[ 3167.487146] android_work: sent uevent USB_STATE=DISCONNECTED
+[ 3167.574917] msm-dwc3 a600000.ssusb: Avail curr from USB = 2
+[ 3167.623989] healthd: battery l=1 v=3361 t=27.3 h=2 st=3 c=0 fc=3320000 cc=0 chg=
+[ 3167.755211] msm-dwc3 a600000.ssusb: Avail curr from USB = 100
+[ 3167.755649] android_work: did not send uevent (0 0 0000000000000000)
+[ 3167.845136] android_work: sent uevent USB_STATE=CONNECTED
+[ 3167.871125] msm-dwc3 a600000.ssusb: Avail curr from USB = 2
+[ 3167.983801] configfs-gadget gadget: high-speed config #1: b
+[ 3167.984824] msm-dwc3 a600000.ssusb: Avail curr from USB = 500
+[ 3167.986171] android_work: sent uevent USB_STATE=CONFIGURED
+[ 3168.010649] ipa_usb_notify_cb: Set net_ready_trigger
+[ 3168.020972] ipa ipa3_cfg_ep_ctrl:4812 pipe setting delay is not supported
+[ 3168.034984] ipa_usb_notify_cb: Set net_ready_trigger
+[ 3168.050954] healthd: battery l=1 v=3361 t=27.5 h=2 st=4 c=0 fc=3320000 cc=0 chg=u
+[ 3168.395031] aw882xx_startup: playback enter
+[ 3168.410059] __afe_port_start: port id: 0x1000
+[ 3168.410089] afe_find_cal_topo_id_by_port: port id: 0x1000, dev_acdb_id: 14
+[ 3168.410103] afe_find_cal_topo_id_by_port: top_id:112fc acdb_id:14 afe_port_id:0x1000
+[ 3168.410117] afe_get_cal_topology_id: port_id = 0x1000 acdb_id = 14 topology_id = 0x112fc cal_type_index=8 ret=0
+[ 3168.410526] afe_send_port_topology_id: AFE set topology id 0x112fc  enable for port 0x1000 ret 0
+[ 3168.410541] send_afe_cal_type: cal_index is 0
+[ 3168.410555] send_afe_cal_type: dev_acdb_id[40] is 14
+[ 3168.410568] afe_find_cal: cal_index 0 port_id 0x1000 port_index 40
+[ 3168.410582] afe_find_cal: acdb_id 14 dev_acdb_id 14 sample_rate 48000 afe_sample_rates 48000
+[ 3168.410594] afe_find_cal: cal block is a match, size is 0
+[ 3168.410607] send_afe_cal_type: Sending cal_index cal 0
+[ 3168.410620] send_afe_cal_type: No cal sent for cal_index 0, port_id = 0x1000! ret -22
+[ 3168.419169] afe_send_hw_delay: port_id 0x1000 rate 48000 delay_usec 474 status 0
+[ 3168.423289] aw882xx_mute: mute state=0
+[ 3168.423303] aw882xx_smartpa_cfg: flag = 1
+[ 3168.423564] aw882xx_get_cali_re_form_nv: open /mnt/vendor/persist/factory/audio/aw_cali.bin failed!
+[ 3168.423571] aw882xx_start: use default vaule 0
+[ 3168.438355] aw882xx_start: monitor is_enable 1,spk_rcv_mode 0
+[ 3168.443043] aw882xx_monitor_start: enter
+[ 3168.443056] aw882xx_monitor_start: start monitor
+[ 3168.443079] aw882xx_send_profile_params_to_dsp: profile Music not data is NULL 
+[ 3168.450802] aw882xx_start: set profile 0 failed 
+[ 3168.669128] healthd: battery l=1 v=3519 t=27.6 h=2 st=2 c=5187 fc=3320000 cc=0 chg=u
+[ 3168.753059] init: starting service 'vendor.secure_element_hal_service_1_2'...
+[ 3168.808642] IRQ 5: no longer affine to CPU5
+[ 3168.903370] type=1400 audit(1606882922.579:1185): avc: denied { search } for comm="android.hardwar" name="nfc" dev="dm-10" ino=280 scontext=u:r:hal_secure_element_default:s0 tcontext=u:object_r:vendor_nfc_vendor_data_file:s0 tclass=dir permissive=0
+[ 3169.028884] IRQ 5: no longer affine to CPU5
+[ 3169.217766] healthd: battery l=1 v=3236 t=27.6 h=2 st=2 c=32653 fc=3320000 cc=0 chg=u
+[ 3169.261728] logd: logdr: UID=1068 GID=1068 PID=12937 n tail=50 logMask=8 pid=12933 start=0ns timeout=0ns
+[ 3169.278913] logd: logdr: UID=1068 GID=1068 PID=12937 n tail=50 logMask=1 pid=12933 start=0ns timeout=0ns
+[ 3169.279218] healthd: battery l=1 v=3145 t=27.6 h=2 st=2 c=-68664 fc=3320000 cc=0 chg=u
+[ 3169.327247] logd: logdr: UID=1068 GID=1068 PID=12937 n tail=0 logMask=8 pid=12933 start=0ns timeout=0ns
+[ 3169.334836] logd: logdr: UID=1068 GID=1068 PID=12937 n tail=0 logMask=1 pid=12933 start=0ns timeout=0ns
+[ 3169.359875] init: Service 'vendor.secure_element_hal_service_1_2' (pid 12933) received signal 6
+[ 3169.359970] init: Sending signal 9 to service 'vendor.secure_element_hal_service_1_2' (pid 12933) process group...
+[ 3169.384408] libprocessgroup: Successfully killed process cgroup uid 1068 pid 12933 in 23ms
+[ 3169.388902] init: Untracked pid 12937 exited with status 0
+[ 3169.389301] init: Untracked pid 12939 received signal 9
+[ 3169.471020] IRQ 5: no longer affine to CPU4
+[ 3170.186821] healthd: battery l=1 v=2862 t=27.6 h=2 st=2 c=-73242 fc=3320000 cc=0 chg=u
+[ 3170.247166] healthd: battery l=1 v=2862 t=27.6 h=2 st=2 c=-73242 fc=3320000 cc=0 chg=u
+[ 3170.290088] healthd: battery l=1 v=3193 t=27.6 h=2 st=2 c=-17700 fc=3320000 cc=0 chg=u
+[ 3170.339636] healthd: battery l=1 v=3193 t=27.6 h=2 st=2 c=-17700 fc=3320000 cc=0 chg=u
+[ 3170.510042] IRQ 5: no longer affine to CPU5
+[ 3171.359220] healthd: battery l=1 v=4397 t=27.6 h=2 st=2 c=119628 fc=3320000 cc=0 chg=u
+[ 3171.443335] aw882xx_monitor_work_func: enter
+[ 3171.449477] aw882xx_monitor_start: enter
+[ 3171.449509] aw882xx_monitor_start: start monitor
+[ 3171.469250] IRQ 5: no longer affine to CPU4
+[ 3171.469626] healthd: battery l=1 v=3634 t=27.6 h=2 st=2 c=115966 fc=3320000 cc=0 chg=u
+[ 3171.808596] healthd: battery l=1 v=4404 t=27.6 h=2 st=2 c=119018 fc=3320000 cc=0 chg=u
+[ 3171.899767] healthd: battery l=1 v=4041 t=27.6 h=2 st=2 c=115356 fc=3320000 cc=0 chg=u
+[ 3172.323445] healthd: battery l=1 v=4403 t=27.6 h=2 st=2 c=120849 fc=3320000 cc=0 chg=u
+[ 3172.437516] healthd: battery l=1 v=4228 t=27.6 h=2 st=2 c=98877 fc=3320000 cc=0 chg=u
+[ 3172.780013] healthd: battery l=1 v=4403 t=27.6 h=2 st=2 c=120239 fc=3320000 cc=0 chg=u
+[ 3172.920500] healthd: battery l=1 v=3926 t=27.6 h=2 st=2 c=117187 fc=3320000 cc=0 chg=u
+[ 3173.335202] healthd: battery l=1 v=4404 t=27.6 h=2 st=2 c=119018 fc=3320000 cc=0 chg=u
+[ 3173.436138] healthd: battery l=1 v=3678 t=27.6 h=2 st=2 c=132141 fc=3320000 cc=0 chg=u
+[ 3173.550032] IRQ 5: no longer affine to CPU4
